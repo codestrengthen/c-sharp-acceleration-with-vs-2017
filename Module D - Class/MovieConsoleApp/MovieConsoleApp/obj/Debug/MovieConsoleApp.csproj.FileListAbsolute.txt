@@ -1,0 +1,14 @@
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 13 - Class\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe.config
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 13 - Class\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 13 - Class\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 13 - Class\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 13 - Class\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 13 - Class\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 13 - Class\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 13 - Class\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe.config
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 13 - Class\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 13 - Class\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.pdb
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 13 - Class\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 13 - Class\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 13 - Class\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 13 - Class\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.pdb
