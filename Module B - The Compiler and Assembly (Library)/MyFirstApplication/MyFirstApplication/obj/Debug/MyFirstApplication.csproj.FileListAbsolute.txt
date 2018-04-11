@@ -1,0 +1,18 @@
+C:\CodeStrengthen\Development\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe.config
+C:\CodeStrengthen\Development\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe
+C:\CodeStrengthen\Development\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.pdb
+C:\CodeStrengthen\Development\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Development\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.exe
+C:\CodeStrengthen\Development\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.pdb
+C:\CodeStrengthen\Development\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Development\MyFirstApplication\MyFirstApplication\bin\Debug\GreetingsAroundTheGlobe.dll
+C:\CodeStrengthen\Development\MyFirstApplication\MyFirstApplication\bin\Debug\GreetingsAroundTheGlobe.pdb
+C:\CodeStrengthen\GitHub\c-sharp-acceleration-with-vs-2017\Module B - The Compiler and Assembly (Library)\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe.config
+C:\CodeStrengthen\GitHub\c-sharp-acceleration-with-vs-2017\Module B - The Compiler and Assembly (Library)\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe
+C:\CodeStrengthen\GitHub\c-sharp-acceleration-with-vs-2017\Module B - The Compiler and Assembly (Library)\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.pdb
+C:\CodeStrengthen\GitHub\c-sharp-acceleration-with-vs-2017\Module B - The Compiler and Assembly (Library)\MyFirstApplication\MyFirstApplication\bin\Debug\GreetingsAroundTheGlobe.dll
+C:\CodeStrengthen\GitHub\c-sharp-acceleration-with-vs-2017\Module B - The Compiler and Assembly (Library)\MyFirstApplication\MyFirstApplication\bin\Debug\GreetingsAroundTheGlobe.pdb
+C:\CodeStrengthen\GitHub\c-sharp-acceleration-with-vs-2017\Module B - The Compiler and Assembly (Library)\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\GitHub\c-sharp-acceleration-with-vs-2017\Module B - The Compiler and Assembly (Library)\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\GitHub\c-sharp-acceleration-with-vs-2017\Module B - The Compiler and Assembly (Library)\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.exe
+C:\CodeStrengthen\GitHub\c-sharp-acceleration-with-vs-2017\Module B - The Compiler and Assembly (Library)\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.pdb

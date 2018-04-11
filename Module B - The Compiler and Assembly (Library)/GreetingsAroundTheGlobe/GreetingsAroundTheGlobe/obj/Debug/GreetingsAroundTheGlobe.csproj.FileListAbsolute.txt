@@ -1,0 +1,6 @@
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 7 - Compiler and Assembly\GreetingsAroundTheGlobe\GreetingsAroundTheGlobe\bin\Debug\GreetingsAroundTheGlobe.dll
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 7 - Compiler and Assembly\GreetingsAroundTheGlobe\GreetingsAroundTheGlobe\bin\Debug\GreetingsAroundTheGlobe.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 7 - Compiler and Assembly\GreetingsAroundTheGlobe\GreetingsAroundTheGlobe\obj\Debug\GreetingsAroundTheGlobe.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 7 - Compiler and Assembly\GreetingsAroundTheGlobe\GreetingsAroundTheGlobe\obj\Debug\GreetingsAroundTheGlobe.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 7 - Compiler and Assembly\GreetingsAroundTheGlobe\GreetingsAroundTheGlobe\obj\Debug\GreetingsAroundTheGlobe.dll
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 7 - Compiler and Assembly\GreetingsAroundTheGlobe\GreetingsAroundTheGlobe\obj\Debug\GreetingsAroundTheGlobe.pdb
