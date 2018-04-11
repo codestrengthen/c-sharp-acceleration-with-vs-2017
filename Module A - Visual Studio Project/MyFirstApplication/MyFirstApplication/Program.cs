@@ -11,7 +11,6 @@ namespace MyFirstApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Great things start with the first step!");
-            
         }
     }
 }
