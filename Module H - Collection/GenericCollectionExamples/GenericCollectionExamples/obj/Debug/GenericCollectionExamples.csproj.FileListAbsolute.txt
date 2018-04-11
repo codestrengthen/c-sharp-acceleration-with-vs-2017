@@ -1,0 +1,7 @@
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 17 - Collection\GenericCollectionExamples\GenericCollectionExamples\bin\Debug\GenericCollectionExamples.exe.config
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 17 - Collection\GenericCollectionExamples\GenericCollectionExamples\bin\Debug\GenericCollectionExamples.exe
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 17 - Collection\GenericCollectionExamples\GenericCollectionExamples\bin\Debug\GenericCollectionExamples.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 17 - Collection\GenericCollectionExamples\GenericCollectionExamples\obj\Debug\GenericCollectionExamples.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 17 - Collection\GenericCollectionExamples\GenericCollectionExamples\obj\Debug\GenericCollectionExamples.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 17 - Collection\GenericCollectionExamples\GenericCollectionExamples\obj\Debug\GenericCollectionExamples.exe
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 17 - Collection\GenericCollectionExamples\GenericCollectionExamples\obj\Debug\GenericCollectionExamples.pdb
