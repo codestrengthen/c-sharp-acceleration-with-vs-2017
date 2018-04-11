@@ -1,0 +1,7 @@
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 9 - Data Types and Variables\DataTypesDemo\DataTypesDemo\bin\Debug\DataTypesDemo.exe.config
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 9 - Data Types and Variables\DataTypesDemo\DataTypesDemo\bin\Debug\DataTypesDemo.exe
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 9 - Data Types and Variables\DataTypesDemo\DataTypesDemo\bin\Debug\DataTypesDemo.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 9 - Data Types and Variables\DataTypesDemo\DataTypesDemo\obj\Debug\DataTypesDemo.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 9 - Data Types and Variables\DataTypesDemo\DataTypesDemo\obj\Debug\DataTypesDemo.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 9 - Data Types and Variables\DataTypesDemo\DataTypesDemo\obj\Debug\DataTypesDemo.exe
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 9 - Data Types and Variables\DataTypesDemo\DataTypesDemo\obj\Debug\DataTypesDemo.pdb
