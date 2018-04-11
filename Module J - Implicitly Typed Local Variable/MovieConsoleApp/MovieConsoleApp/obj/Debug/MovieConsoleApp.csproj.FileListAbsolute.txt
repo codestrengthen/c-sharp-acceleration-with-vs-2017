@@ -1,0 +1,42 @@
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 14 - Fields and Properties\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe.config
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 14 - Fields and Properties\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 14 - Fields and Properties\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 14 - Fields and Properties\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 14 - Fields and Properties\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 14 - Fields and Properties\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 14 - Fields and Properties\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 15 - Objects\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe.config
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 15 - Objects\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 15 - Objects\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 15 - Objects\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 15 - Objects\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 15 - Objects\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 15 - Objects\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 16 - Method\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe.config
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 16 - Method\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 16 - Method\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 16 - Method\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 16 - Method\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 16 - Method\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 16 - Method\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 18 - Method\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe.config
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 18 - Method\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 18 - Method\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 18 - Method\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 18 - Method\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 18 - Method\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 18 - Method\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 19 - Implicitly Typed Local Variable\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe.config
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 19 - Implicitly Typed Local Variable\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 19 - Implicitly Typed Local Variable\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 19 - Implicitly Typed Local Variable\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 19 - Implicitly Typed Local Variable\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 19 - Implicitly Typed Local Variable\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# Fundamentals in 1 Hour\Background Source\Module 19 - Implicitly Typed Local Variable\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 19 - Implicitly Typed Local Variable\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe.config
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 19 - Implicitly Typed Local Variable\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 19 - Implicitly Typed Local Variable\MovieConsoleApp\MovieConsoleApp\bin\Debug\MovieConsoleApp.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 19 - Implicitly Typed Local Variable\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 19 - Implicitly Typed Local Variable\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 19 - Implicitly Typed Local Variable\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.exe
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 19 - Implicitly Typed Local Variable\MovieConsoleApp\MovieConsoleApp\obj\Debug\MovieConsoleApp.pdb
