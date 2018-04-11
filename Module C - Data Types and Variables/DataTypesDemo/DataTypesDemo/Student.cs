@@ -12,5 +12,6 @@ namespace DataTypesDemo
         //This effectively makes it become a "global variable" because it can be accessed anywhere in the code, 
         //not limited inside a method
         public static string TopStudentName { get; set; }
+
     }
 }
