@@ -1,0 +1,14 @@
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 6 - Your First Project\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe.config
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 6 - Your First Project\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 6 - Your First Project\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 6 - Your First Project\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 6 - Your First Project\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.exe
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 6 - Your First Project\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 6 - Your First Project\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 6 - Your First Project\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe.config
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 6 - Your First Project\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 6 - Your First Project\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.pdb
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 6 - Your First Project\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 6 - Your First Project\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 6 - Your First Project\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.exe
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 6 - Your First Project\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.pdb
