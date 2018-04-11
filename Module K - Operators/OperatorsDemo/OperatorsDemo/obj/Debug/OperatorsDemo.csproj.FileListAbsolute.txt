@@ -1,0 +1,14 @@
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 18 - Operators\OperatorsDemo\OperatorsDemo\bin\Debug\OperatorsDemo.exe.config
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 18 - Operators\OperatorsDemo\OperatorsDemo\bin\Debug\OperatorsDemo.exe
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 18 - Operators\OperatorsDemo\OperatorsDemo\bin\Debug\OperatorsDemo.pdb
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 18 - Operators\OperatorsDemo\OperatorsDemo\obj\Debug\OperatorsDemo.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 18 - Operators\OperatorsDemo\OperatorsDemo\obj\Debug\OperatorsDemo.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 18 - Operators\OperatorsDemo\OperatorsDemo\obj\Debug\OperatorsDemo.exe
+C:\CodeStrengthen\Courses\C# Fundamentals\Background Source\Module 18 - Operators\OperatorsDemo\OperatorsDemo\obj\Debug\OperatorsDemo.pdb
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 18 - Operators\OperatorsDemo\OperatorsDemo\bin\Debug\OperatorsDemo.exe.config
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 18 - Operators\OperatorsDemo\OperatorsDemo\bin\Debug\OperatorsDemo.exe
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 18 - Operators\OperatorsDemo\OperatorsDemo\bin\Debug\OperatorsDemo.pdb
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 18 - Operators\OperatorsDemo\OperatorsDemo\obj\Debug\OperatorsDemo.csprojResolveAssemblyReference.cache
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 18 - Operators\OperatorsDemo\OperatorsDemo\obj\Debug\OperatorsDemo.csproj.CoreCompileInputs.cache
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 18 - Operators\OperatorsDemo\OperatorsDemo\obj\Debug\OperatorsDemo.exe
+C:\CodeStrengthen\Courses\C# acceleration Course\Background Source\Module 18 - Operators\OperatorsDemo\OperatorsDemo\obj\Debug\OperatorsDemo.pdb
